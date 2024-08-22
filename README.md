@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone, I'm Nguyen Vu Bach, a Computer Science student come from Vietnam. I'm now studying at Ho Chi Minh University of Technology 👋
 
 <!--
 **vubach806/vubach806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
